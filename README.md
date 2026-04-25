@@ -60,7 +60,7 @@ Sadece "Veri Yapıları ve Algoritmalar" dersini alan öğrenciler listelenir.
 - Veri filtreleme
 - Struct kullanımı
 
-öğrenilmiştir.
+öğrenilmiştir
 ---
 
 Geliştirici
