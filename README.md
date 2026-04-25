@@ -61,9 +61,9 @@ Sadece "Veri Yapıları ve Algoritmalar" dersini alan öğrenciler listelenir.
 - Struct kullanımı
 
 öğrenilmiştir
----
 
 Geliştirici
+---
 
 Evrim
 Bilgisayar Mühendisliği Öğrencisi
